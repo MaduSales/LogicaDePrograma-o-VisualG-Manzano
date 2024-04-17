@@ -1,1 +1,1 @@
-# LogicaDePrograma-o-VisualG-Manzano
+# LogicaDeProgramacao-VisualG-Manzano
